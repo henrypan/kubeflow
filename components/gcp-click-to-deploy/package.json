@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^1.3.1",
+    "@material-ui/core": "^4.0.0",
     "@types/request": "^2.47.1",
     "glamor": "^2.20.40",
     "glamorous": "^4.13.1",
@@ -11,7 +11,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts-ts": "2.16.0",
+    "react-scripts-ts": "4.0.1",
     "request": "^2.88.0"
   },
   "scripts": {
